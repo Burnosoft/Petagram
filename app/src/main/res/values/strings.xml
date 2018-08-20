@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="menu_about">Acerca de...</string>
+    <string name="menu_conf">Configuracion</string>
+</resources>
